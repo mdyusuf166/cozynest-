@@ -1,4 +1,4 @@
-# 🛍️ eCommerce Landing Page
+# 🛍️ eCommerce Landing Page*
 
 A **modern and fully responsive eCommerce landing page** built using **Tailwind CSS** and **vanilla JavaScript**. This project demonstrates clean UI design, responsive layout techniques, interactive components, and ends with deployment on **Hostinger**.
 
